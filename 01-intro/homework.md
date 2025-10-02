@@ -15,6 +15,8 @@ You can get the version information using the `__version__` field:
 pd.__version__
 ```
 
+2.3.2
+
 ## Getting the data 
 
 For this homework, we'll use the Car Fuel Efficiency dataset. Download it from <a href='https://raw.githubusercontent.com/alexeygrigorev/datasets/master/car_fuel_efficiency.csv'>here</a>.
@@ -34,7 +36,7 @@ How many records are in the dataset?
 
 - 4704
 - 8704
-- 9704
+- 9704 <--
 - 17704
 
 ## Q3. Fuel types
@@ -42,7 +44,7 @@ How many records are in the dataset?
 How many fuel types are presented in the dataset?
 
 - 1
-- 2
+- 2 <--
 - 3
 - 4
 
@@ -54,14 +56,14 @@ How many columns in the dataset have missing values?
 - 1
 - 2
 - 3
-- 4
+- 4 <--
 
 ## Q5. Max fuel efficiency
 
 What's the maximum fuel efficiency of cars from Asia?
 
 - 13.75
-- 23.75
+- 23.75 <--
 - 33.75
 - 43.75
 
@@ -75,7 +77,7 @@ What's the maximum fuel efficiency of cars from Asia?
 Has it changed?
 
 
-- Yes, it increased
+- Yes, it increased <--
 - Yes, it decreased
 - No
 
@@ -95,7 +97,7 @@ Has it changed?
 > **Note**: You just implemented linear regression. We'll talk about it in the next lesson.
 
 - 0.051
-- 0.51
+- 0.51 <--
 - 5.1
 - 51
 
